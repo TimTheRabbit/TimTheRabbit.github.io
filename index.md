@@ -17,7 +17,7 @@ It's a 3D golf game with high quality!
 I made this project because I have a great interest in golf.
 
 
-CLICK HERE TO PLAY
+[CLICK HERE TO PLAY](Tim_Super_Duper_golf_WebGL_v1/index.html)
 
 
 Instructions
