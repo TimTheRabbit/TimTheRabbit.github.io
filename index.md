@@ -101,7 +101,6 @@ Sample images
 
 ![golf2](https://user-images.githubusercontent.com/87847364/230894410-a59a077a-dfbb-418b-a970-3457fdad4adc.JPG)
 
-
 Resources and Assets
 --------------------
 -[Kenny Assets](https://www.kenney.nl/assets)
