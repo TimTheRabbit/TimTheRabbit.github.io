@@ -1,8 +1,9 @@
 Super Duper Golf Game
 ====================
-![cat flying-b](https://user-images.githubusercontent.com/87847364/230899237-d93fc0b0-77c2-46b5-8b70-8eb4618b78b7.svg)
 by Crazy Catty Computer
+![cat flying-b](https://user-images.githubusercontent.com/87847364/230899237-d93fc0b0-77c2-46b5-8b70-8eb4618b78b7.svg)
 
+_______________________________________________
 
 ![golf1](https://user-images.githubusercontent.com/87847364/230897115-9325ce6a-91da-4cff-8b9d-7fbd9ab434b0.JPG)
 
@@ -14,6 +15,10 @@ This game is a game which is made in [Unity](https://unity.com/).
 It's a 3D golf game with high quality!
 
 I made this project because I have a great interest in golf.
+
+
+CLICK HERE TO PLAY
+
 
 Instructions
 -----------
