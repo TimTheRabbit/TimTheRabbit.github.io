@@ -36,7 +36,7 @@ You need to touch the flag which is in the end of the path to go to the next lev
 How it works
 -----------
 
-The script is written in C#.
+The scripts are written in C#.
 
 Here's some example snippets of code.
 
