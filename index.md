@@ -23,7 +23,7 @@ I made this project because I have a great interest in golf.
 Instructions
 -----------
 
-  - Press 'a' and 'd' to rotate
+  - Press `a` and `d` to rotate
   - Press space button to add force and make a strong hit
   - Try to reach the goal in a particular number of hits
   - Don't fall down!
