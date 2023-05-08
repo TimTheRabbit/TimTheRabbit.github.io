@@ -1,4 +1,4 @@
-Super Duper Lunar Lander
+Super Duper Lanarious Lander
 ========================
 by Crazy Catty Computer
 ![cat flying-b](https://user-images.githubusercontent.com/87847364/230899237-d93fc0b0-77c2-46b5-8b70-8eb4618b78b7.svg)
@@ -11,6 +11,7 @@ This game is a game which is made in [Unity](https://unity.com/).
 
 It's an adaption of an classic computer game [Lunar Lander](http://moonlander.seb.ly/).
 
+CLICKED HERE TO PLAY!!!
 
 
 Instruction
@@ -31,3 +32,16 @@ try to land on the landing pad in a nice way(don't make the ship turn too much!)
 Landing pad: ![spaceStation_001](https://user-images.githubusercontent.com/87847364/235280856-733b1c4f-34a2-499c-bdc6-a69c044b883c.png)
 
 Don't crash into rock.
+
+Sample Image
+-----------
+
+Coding secret
+------------
+
+
+
+
+Assets and Resources
+----------------
+[Kenny](https://www.kenney.nl/)
