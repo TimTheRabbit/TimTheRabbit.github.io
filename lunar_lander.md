@@ -11,7 +11,7 @@ This game is a game which is made in [Unity](https://unity.com/).
 
 It's an adaption of an classic computer game [Lunar Lander](http://moonlander.seb.ly/).
 
-CLICKED HERE TO PLAY!!!
+[CLICKED HERE TO PLAY!!!](tim_lander_webgl_v4/index.html)
 
 
 Instruction
