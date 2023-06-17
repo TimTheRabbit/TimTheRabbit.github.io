@@ -1,6 +1,10 @@
 First Person Adventurer
 ====================
-by Crazy Catty![Uploading Crazy Catty.png…]()
+by Crazy Catty
+
+![Crazy Catty](https://github.com/TimTheRabbit/TimTheRabbit.github.io/assets/87847364/86d7428f-7712-4f4c-8a22-14d9b00cd12a)
+
+
 
 ____________________________________________________________
 
