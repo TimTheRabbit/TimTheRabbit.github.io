@@ -1,5 +1,5 @@
 RPG Game
 ==============
 
-[CLICK HERE TO PLAY](FirstPlayerRPG v1/index.html)
+[CLICK HERE TO PLAY](FirstPlayerRPGv1/index.html)
 
